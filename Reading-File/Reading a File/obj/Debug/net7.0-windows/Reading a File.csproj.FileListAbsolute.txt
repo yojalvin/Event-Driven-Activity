@@ -1,0 +1,95 @@
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.exe
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.deps.json
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.runtimeconfig.json
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\bin\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File_MarkupCompile.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.g.resources
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfoInputs.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfo.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\refint\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\Reading a File.genruntimeconfig.cache
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\ref\Reading a File.dll
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.baml
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.g.cs
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.baml
+C:\Users\Jason User\Documents\Reading a File\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.g.cs
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.exe
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.deps.json
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.runtimeconfig.json
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.AssemblyReference.cache
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.baml
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.baml
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.g.cs
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.g.cs
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File_MarkupCompile.cache
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.g.resources
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfoInputs.cache
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfo.cs
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.CoreCompileInputs.cache
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\refint\Reading a File.dll
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.genruntimeconfig.cache
+C:\Users\Jeff Alvin\Downloads\Reading-A-File-main\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\ref\Reading a File.dll
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.exe
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.deps.json
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.runtimeconfig.json
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\bin\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.AssemblyReference.cache
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.baml
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.baml
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.g.cs
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.g.cs
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File_MarkupCompile.cache
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.g.resources
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfoInputs.cache
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfo.cs
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.CoreCompileInputs.cache
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.dll
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\refint\Reading a File.dll
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.pdb
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\Reading a File.genruntimeconfig.cache
+C:\Users\Jeff Alvin\Documents\Reading-A-File-main\Reading a File\obj\Debug\net7.0-windows\ref\Reading a File.dll
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\bin\Debug\net7.0-windows\Reading a File.exe
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\bin\Debug\net7.0-windows\Reading a File.deps.json
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\bin\Debug\net7.0-windows\Reading a File.runtimeconfig.json
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\bin\Debug\net7.0-windows\Reading a File.dll
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\bin\Debug\net7.0-windows\Reading a File.pdb
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.AssemblyReference.cache
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.baml
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.baml
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\MainWindow.baml
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\FrmRegistration.g.cs
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\FrmStudentRecord.g.cs
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\App.g.cs
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File_MarkupCompile.cache
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.g.resources
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.GeneratedMSBuildEditorConfig.editorconfig
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfoInputs.cache
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.AssemblyInfo.cs
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.csproj.CoreCompileInputs.cache
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.dll
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\refint\Reading a File.dll
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.pdb
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\Reading a File.genruntimeconfig.cache
+D:\jalvin\DO NOT OPEN!\Coding Stuffs\School Works\Event-Driven\Reading-File\Reading a File\obj\Debug\net7.0-windows\ref\Reading a File.dll
